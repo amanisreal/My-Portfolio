@@ -1,0 +1,81 @@
+.projectscontainer{
+    
+    margin-right: 140px;
+    height: 100vh;
+    position: relative;
+   
+
+}
+
+.project-container{
+    
+    margin: 0 30%;
+    margin-top: 6%;
+    
+}
+
+.imageside{
+   
+
+}
+
+
+
+.left-arrow{
+
+   position: absolute;
+    top:40%;
+    left: 32px;
+    font-size: 3rem;
+    color: #000;
+    cursor:pointer;
+}
+
+.right-arrow{
+    position: absolute;
+     top:40%;
+     right: 32px;
+     font-size: 3rem;
+     color: #000;
+     z-index: 10;
+     cursor: pointer;
+     user-select: none;
+ }
+
+ .image{
+   
+    margin-top: 2rem;
+     height: 300px;
+     width: 500px;
+     z-index: 10;
+     cursor: pointer;
+     user-select: none;
+ }
+
+ .slide{
+     opacity: 0;
+     transition-duration: 1s ease;
+     
+     }
+
+ .slide.active{
+     opacity: 1;
+     transition-duration: 1s;
+     transform: scale(1.08);
+ }
+
+.textheader{
+    font-size: 2rem;
+    text-align: center;
+}
+
+.text{
+   text-align: center;
+    font-size: 1.11rem
+}
+
+.heading{
+    text-align: center;
+    font-size: 2rem;
+    margin-top: -3rem;
+}

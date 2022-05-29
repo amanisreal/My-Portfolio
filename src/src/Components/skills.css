@@ -1,0 +1,41 @@
+.skillscontainer{
+font-family: 'Amatic SC', cursive;
+height: 110vh;
+margin-top: 8rem;
+font-weight: 600;
+
+}
+
+.skillsheading{
+    margin-top: 9rem;
+    font-size: 3rem;
+    margin-left: 55rem;
+}
+
+.skills{
+    display:flex;
+    margin-top: 6rem;
+}
+
+.skillsul{
+    margin-top: 2rem;
+    padding: 3rem
+}
+
+.skillsli{
+    font-size: 1.3rem;
+    list-style: none;
+    padding: 1.3rem
+}
+
+
+
+.leftsideskills, .middleskills, .rightsideskills{
+  margin-left: 8rem;
+}
+
+.skillsgif{
+    
+    margin-left: 6rem;
+    margin-top: -3rem;
+}
