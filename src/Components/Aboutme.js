@@ -10,7 +10,7 @@ function Aboutme() {
                 <span className='hello'>Hii</span>
                 <br></br>
                 <br/>
-                <div className='someinfo'>I'm Aman Borkar currently studing Geological technology branch in Earth Sciences department io Indian Institue of technology Roorkee, Uttarakhand.
+                <div className='someinfo'>I'm Aman Borkar currently studing Geological technology branch in Earth Sciences department of Indian Institue of technology Roorkee, Uttarakhand.
                 <br/>
                 <br/>
                 My dream is to be a full stack web developer.
